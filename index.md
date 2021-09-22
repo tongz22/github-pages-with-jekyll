@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Newbie Disco"
 ---
 
 this is my first commit
